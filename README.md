@@ -87,4 +87,4 @@ This project provides hands-on experience in data science workflows and showcase
 📽 Demo Video
 The project demo video has been uploaded to GitHub under the **Releases** section.
 
-➡️ Please navigate to **Releases → v1.0** and download the video to view the full demonstration.
+➡️ Please navigate to **Releases → c1.0** and download the video to view the full demonstration.
