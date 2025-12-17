@@ -83,3 +83,8 @@ Ragavi R
 📌 Conclusion
 
 This project provides hands-on experience in data science workflows and showcases the practical use of machine learning for predictive analysis.
+
+📽 Demo Video
+The project demo video has been uploaded to GitHub under the **Releases** section.
+
+➡️ Please navigate to **Releases → v1.0** and download the video to view the full demonstration.
